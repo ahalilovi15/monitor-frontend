@@ -1,4 +1,7 @@
 tt# Monitor web client
+### Dokumentacija:
+
+https://docs.google.com/document/d/1YVnarNuxYT_FnbsHlarOSgYp8U9KIQVzJlwjSYxyeoU/edit
 
 ### Upute za pokretanje:
 
